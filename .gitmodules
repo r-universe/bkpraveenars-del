@@ -5,3 +5,9 @@
 [submodule "BKBreed"]
 	path = BKBreed
 	url = https://github.com/bkpraveenars-del/bkbreed
+[submodule "BKMutate"]
+	path = BKMutate
+	url = https://github.com/bkpraveenars-del/bkmutate
+[submodule "BKQualit"]
+	path = BKQualit
+	url = https://github.com/bkpraveenars-del/bkqualit
