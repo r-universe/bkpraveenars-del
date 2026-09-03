@@ -11,3 +11,6 @@
 [submodule "BKQualit"]
 	path = BKQualit
 	url = https://github.com/bkpraveenars-del/bkqualit
+[submodule "BKVerify"]
+	path = BKVerify
+	url = https://github.com/bkpraveenars-del/bkverify
